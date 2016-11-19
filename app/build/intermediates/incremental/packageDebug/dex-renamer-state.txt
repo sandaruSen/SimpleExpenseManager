@@ -1,0 +1,7 @@
+#Sat Nov 19 20:56:56 IST 2016
+base.0=C\:\\Users\\Userpc\\Desktop\\New folder\\SimpleExpenseManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_49c819a55d8d4fd883bb92dc505570946f5f4d37
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Userpc\\Desktop\\New folder\\SimpleExpenseManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_77e04d4d3ef0d2d0f1effc4bb0bbea380b942fc0\\classes.dex
+base.1=C\:\\Users\\Userpc\\Desktop\\New folder\\SimpleExpenseManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_77e04d4d3ef0d2d0f1effc4bb0bbea380b942fc0
+file.0=C\:\\Users\\Userpc\\Desktop\\New folder\\SimpleExpenseManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_49c819a55d8d4fd883bb92dc505570946f5f4d37\\classes.dex
