@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="2d50bfea4233ed5d8b39a8b5fea48cb3745d19f2">
+        sha1="eb6f36567464228f71fde69aa555f95f8a0bbb4c">
         <dex dex="C:\Users\Userpc\Desktop\New folder\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_49c819a55d8d4fd883bb92dc505570946f5f4d37\classes.dex" />
     </item>
     <item
@@ -25,7 +25,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="8c482fcb889d773e958b4dbeedf583fb29bd34b5">
+        sha1="382f0cbbfd2943fbd103e5fd2fbb1e716631f3b1">
         <dex dex="C:\Users\Userpc\Desktop\New folder\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_77e04d4d3ef0d2d0f1effc4bb0bbea380b942fc0\classes.dex" />
     </item>
     <item
